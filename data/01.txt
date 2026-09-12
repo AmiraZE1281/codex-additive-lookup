@@ -1,0 +1,89 @@
+i|n|c|p|s|k|t
+100|Curcumins|||No, No GSFA provision found|0|
+100(i)|Curcumin|Colour|colour|Yes, Specific provision|81|
+100(ii)|Turmeric|Colour|colour|No, No GSFA provision found|0|
+101|Riboflavins|||No, No GSFA provision found|0|
+101(i)|Riboflavin, synthetic|Colour|colour|Yes, Specific provision|13|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+101(ii)|Riboflavin 5’-phosphate sodium|Colour|colour|Yes, Specific provision|13|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+101(iii)|Riboflavin from Bacillus subtilis|Colour|colour|Yes, Specific provision|13|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+101(iv)|Riboflavin from Ashbya gossypii|Colour|colour|Yes, Specific provision|13|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+102|Tartrazine|Colour|tcolour|Yes, Specific provision|65|
+103|Alkanet|Colour|colour|No, No GSFA provision found|0|
+104|Quinoline yellow 4|Colour|colour|Yes, Specific provision|31|
+105|Carthamus yellow|Colour|colour|No, No GSFA provision found|0|
+107|Yellow 2G|Colour|colour|No, No GSFA provision found|0|
+110|Sunset yellow FCF|Colour|colour|Yes, Specific provision|63|
+120|Carmines|Colour|colour|Yes, Specific provision|76|
+121|Citrus red No. 2|Colour|colour|No, No GSFA provision found|0|
+122|Azorubine (Carmoisine)|Colour|colour|Yes, Specific provision|44|
+123|Amaranth|Colour|colour|Yes, Specific provision|12|
+124|Ponceau 4R (Cochineal red A)|Colour|colour|Yes, Specific provision|50|
+125|Ponceau SX|Colour|colour|No, No GSFA provision found|0|
+127|Erythrosine|Colour|colour|Yes, Specific provision|8|
+129|Allura red AC|Colour|colour|Yes, Specific provision|52|
+130|Manascorubin|Colour|colour|No, No GSFA provision found|0|
+131|Patent blue V|Colour|colour|No, No GSFA provision found|0|
+132|Indigotine (Indigo carmine)|Colour|colour|Yes, Specific provision|50|
+133|Brilliant blue FCF|Colour|colour|Yes, Specific provision|65|
+134|Spirulina extract|Colour|colour|No, No GSFA provision found|0|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+140|Chlorophylls|Colour|colour|Yes, Specific provision|7|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+141|Chlorophylls and chlorophyllins, copper complexes|||No, No GSFA provision found|0|
+141(i)|Chlorophylls, copper complexes|Colour|colour|Yes, Specific provision|57|
+141(ii)|Chlorophyllins, copper complexes, potassium and sodium salts|Colour|colour|Yes, Specific provision|57|
+142|Green S|Colour|colour|No, No GSFA provision found|0|
+143|Fast Green FCF|Colour|colour|Yes, Specific provision|34|
+150|Caramels|||No, No GSFA provision found|0|
+150a|Caramel I – plain caramel|Colour|colour|Yes, Specific provision|11|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+150b|Caramel II – sulphite caramel|Colour|colour|Yes, Specific provision|60|
+150c|Caramel III – ammonia caramel|Colour|colour|Yes, Specific provision|85|
+150d|Caramel IV – sulphite ammonia caramel|Colour|colour|Yes, Specific provision|75|
+151|Brilliant black (Black PN)|Colour|colour|Yes, Specific provision|29|
+152|Carbon black (hydrocarbon)|Colour|colour|No, No GSFA provision found|0|
+153|Vegetable carbon|Colour|colour|No, No GSFA provision found|0|
+154|Brown FK|Colour|colour|No, No GSFA provision found|0|
+155|Brown HT|Colour|colour|Yes, Specific provision|30|
+160a|Carotenes|||No, No GSFA provision found|0|
+160a(i)|Carotenes, beta-, synthetic|Colour|colour|Yes, Specific provision|73|
+160a(ii)|Carotenes, beta-, vegetable|Colour|colour|Yes, Specific provision|73|
+160a(iii)|Carotenes, beta-, Blakeslea trispora|Colour|colour|Yes, Specific provision|73|
+160a(iv)|β-carotene-rich extract from Dunaliella salina|Colour|colour|Yes, Specific provision|72|
+160b|Annatto extracts|||No, No GSFA provision found|0|
+160b(i)|Annatto extracts, bixin-based|Colour|colour|Yes, Specific provision|75|
+160b(ii)|Annatto extracts, norbixin-based|Colour|colour|Yes, Specific provision|66|
+160c(i)|Paprika oleoresin|Colour|colour|No, No GSFA provision found|0|
+160c(ii)|Paprika extract|Colour|colour|Yes, Specific provision|69|
+160d|Lycopenes|||No, No GSFA provision found|0|
+160d(i)|Lycopene, synthetic|Colour|colour|No, No GSFA provision found|0|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+160d(ii)|Lycopene, tomato|Colour|colour|Yes, Specific provision|4|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+160d(iii)|Lycopene, Blakeslea trispora|Colour|colour|Yes, Specific provision|1|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+160e|Carotenal, beta-apo-8’-|Colour|colour|Yes, Specific provision|30|
+160f|Carotenoic acid, ethyl ester, beta-apo-8’-|Colour|colour|No, No GSFA provision found|0|
+161a|Flavoxanthin|Colour|colour|No, No GSFA provision found|0|
+161b|Luteins|||No, No GSFA provision found|0|
+161b(i)|Lutein from Tagetes erecta|Colour|colour|Yes, Specific provision|3|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+161b(ii)|Tagetes extract|Colour|colour|No, No GSFA provision found|0|
+161b(iii)|Lutein esters from Tagetes erecta 6|Colour|colour|No, No GSFA provision found|0|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+161c|Kryptoxanthin|Colour|colour|No, No GSFA provision found|0|
+161d|Rubixanthin|Colour|colour|No, No GSFA provision found|0|
+161e|Violoxanthin|Colour|colour|No, No GSFA provision found|0|
+161f|Rhodoxanthin|Colour|colour|No, No GSFA provision found|0|
+161g|Canthaxanthin|Colour|colour|Yes, Specific provision|34|
+161h|Zeaxanthins|||No, No GSFA provision found|0|
+161h(i)|Zeaxanthin, synthetic|Colour|colour|Yes, Specific provision|1|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+161h(ii)|Zeaxanthin-rich extract from Tagetes erecta|Colour|colour|No, No GSFA provision found|0|
+162|Beet red|Colour|colour|Yes, Specific provision|8|Yes – Table 3 general use at GMP; subject to Table 3 conditions and exclusions.
+163|Anthocyanins|||No, No GSFA provision found|0|
+163(ii)|Grape skin extract|Colour|colour|Yes, Specific provision|66|
+163(iii)|Blackcurrant extract|Colour|colour|No, No GSFA provision found|0|
+163(iv)|Purple corn colour|Colour|colour|No, No GSFA provision found|0|
+163(v)|Red cabbage colour|Colour|colour|No, No GSFA provision found|0|
+163(vi)|Black carrot extract|Colour|colour|No, No GSFA provision found|0|
+163(vii)|Purple sweet potato colour|Colour|colour|No, No GSFA provision found|0|
+163(viii)|Red radish colour|Colour|colour|No, No GSFA provision found|0|
+163(ix)|Elderberry colour|Colour|colour|No, No GSFA provision found|0|
+163(x)|Hibiscus colour|Colour|colour|No, No GSFA provision found|0|
+163(xi)|Butterfly pea flower extract|Colour|colour|No, No GSFA provision found|0|
+164|Gardenia yellow|Colour|colour|No, No GSFA provision found|0|
+165|Gardenia blue|Colour|colour|No, No GSFA provision found|0|
+166|Sandalwood|Colour|colour|No, No GSFA provision found|0|
+170|Calcium carbonates|Acidity regulator; Anticaking agent; Colour|acidity regulator; anticaking agent; surface colourant|No, No GSFA provision found|0|
